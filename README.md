@@ -1,5 +1,5 @@
-### Hi there 👋
-<span>![</span><span>Doom</span><span>]</span><span>(</span><span>https://raw.githubusercontent.com/JDB-16/JDB-16/main/Doom.png</span><span>)</span>
+![Doom](https://raw.githubusercontent.com/JDB-16/JDB-16/master/doom.png)
+
 <!--
 **JDB-16/JDB-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
