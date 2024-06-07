@@ -1,4 +1,4 @@
-![Doom](https://raw.githubusercontent.com/JDB-16/JDB-16/master/doom.png)
+![Doom](https://raw.githubusercontent.com/JoarriDB/JoarriDB/master/doom.png)
 
 <!--
 **JDB-16/JDB-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
